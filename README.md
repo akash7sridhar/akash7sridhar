@@ -10,7 +10,7 @@
 
 <p align="center">
   <em>
-    This is ME, Akash Sridhar, a <b>DevOps Engineer</b> at <a href="https://www.vernacular.ai/"> <b>Vernacular AI</b>, Bangalore</a>. <br>
+    This is ME, Akash Sridhar, a <b>DevOps Engineer</b> at <a href="https://www.unbxd.com/"> <b>UNBXD</b>, Bangalore</a>. <br>
     A  <b>DevOps Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Software Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -26,24 +26,12 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently learning **Django** & **ReactJS**<br>
+✔ I’m currently learning **Python** & **DSA**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Full Stack Development**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
-<p align="left">
-
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"> </code>
-  <hr>
-
-<hr>
 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
